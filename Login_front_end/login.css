@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    padding: 10px;
+    border: 10px;
+    align-items: center;
+    /* background: linear-gradient(135deg,#876548); */
+    background: rgb(185, 141, 225) ;
+}
+form #form{
+    max-width: 900px;
+    height: 3px;
+    border: 10px;
+    /* text-align: center; */
+    border-color: #876548;
+    width: 100%;
+    background: #ebd8d8;
+    padding: 250x,30px;
+    border-radius: 5px;
+}
